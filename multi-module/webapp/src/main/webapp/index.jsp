@@ -1,1 +1,1 @@
-Welcome all to my project !
+Welcome all
